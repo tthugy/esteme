@@ -1,5 +1,4 @@
 <script lang="ts">
-  import svelteLogo from './assets/svelte.svg'
   import Counter from './lib/Counter.svelte'
 </script>
 
@@ -27,12 +26,6 @@
     height: 6em;
     padding: 1.5em;
     will-change: filter;
-  }
-
-  .logo {
-    width: 2rem;
-    height: 1rem;
-    vertical-align: middle;
   }
   .logo:hover {
     filter: drop-shadow(0 0 2em #646cffaa);
