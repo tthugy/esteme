@@ -7,18 +7,10 @@
     <a href="https://vitejs.dev" target="_blank"> 
       <img src="/vite.svg" class="logo" alt="Vite Logo" />
     </a>
-    <a href="https://svelte.dev" target="_blank"> 
-      <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
-    </a>
   </div>
-
   <div class="card">
     <Counter />
   </div>
-
-  <p class="read-the-docs">
-    Svelte
-  </p>
 </main>
 
 <style>
